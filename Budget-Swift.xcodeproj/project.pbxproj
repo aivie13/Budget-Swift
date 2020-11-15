@@ -25,7 +25,6 @@
 /* Begin PBXFileReference section */
 		9322B9612560E87E0066D7A9 /* Budget-Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Budget-Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9322B9642560E87E0066D7A9 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		9322B96C2560E9B40066D7A9 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = "/Users/aaron/OneDrive - BYU-Idaho/School/CS246/Budget-Swift/Budget-Swift/README.md"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +57,6 @@
 		9322B9632560E87E0066D7A9 /* Budget-Swift */ = {
 			isa = PBXGroup;
 			children = (
-				9322B96C2560E9B40066D7A9 /* README.md */,
 				9322B9642560E87E0066D7A9 /* main.swift */,
 			);
 			path = "Budget-Swift";
