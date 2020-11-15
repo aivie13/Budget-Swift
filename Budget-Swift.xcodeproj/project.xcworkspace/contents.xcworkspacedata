@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/aaron/OneDrive - BYU-Idaho/School/CS246/Budget-Swift/Budget-Swift/README.md">
+   </FileRef>
+   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>
